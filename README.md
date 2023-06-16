@@ -1,8 +1,8 @@
 # Responsi Senior Project - Studi Kasus 1
 
-Nama : [NAMA]  
-NIU : [NIU]  
-Sesi : [SESI]  
+Nama : [Aditya Yusuf P]  
+NIU : [49232]  
+Sesi : [Senin]  
 Secret String : [SECRET_STRING]
 
 ## Checklist Responsi
