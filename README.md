@@ -3,7 +3,7 @@
 Nama : [Aditya Yusuf P]  
 NIU : [49232]  
 Sesi : [Senin]  
-Secret String : [SECRET_STRING]
+Secret String : [cd3ac4e9be4a7400de1a6d161f382696003364ddcb9256823cd217357efa774c20230616020824]
 
 ## Checklist Responsi
 
